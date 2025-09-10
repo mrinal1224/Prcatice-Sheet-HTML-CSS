@@ -221,9 +221,6 @@ Your client wants a simple form to collect a person’s name and gender, with a 
 
 ---
 
-Perfect 👍
-Let’s move forward with the next batch: **Q7 – Q12**.
-(Same format → Problem → Starter Stub → Test Cases → Complete Solution)
 
 ---
 
@@ -467,9 +464,7 @@ You’re asked to build a landing page where the main heading must always be cen
 
 ---
 
-Great 👍
-Here’s the next batch: **Q13 – Q18** (Box Model + Intro to Flexbox).
-Same structure: **Problem → Starter → Test Cases → Complete Solution**
+
 
 ---
 
@@ -768,9 +763,7 @@ You’re creating a 3-column layout where each column must take equal width, reg
 ```
 
 ---
-Perfect 🚀
-Let’s continue with **Q19 – Q24 (CSS Grid, Media Queries, Positioning & Specificity)**.
-Same structure: **Problem → Starter → Test Cases → Complete Solution**
+
 
 ---
 
@@ -1091,9 +1084,7 @@ Which one will win?
 ```
 
 ---
-Perfect 👍
-Here’s the **final stretch (Q25 – Q33: Mixed Practice, Forms, Buttons, Hero Section, Responsive Cards)**.
-Same structure: **Problem → Starter → Test Cases → Complete Solution**
+
 
 ---
 
