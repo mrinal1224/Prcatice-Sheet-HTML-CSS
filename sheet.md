@@ -1,7 +1,3 @@
-Awesome 👍
-We’re on the same page now.
-I’ll build the **complete 33-question practice sheet** in this format for you:
-
 * **Problem Description** (story-driven)
 * **Starter (stub)** (with missing CSS/HTML for students)
 * **Test cases**
