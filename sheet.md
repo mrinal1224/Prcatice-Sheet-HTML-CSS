@@ -3,9 +3,6 @@
 * **Test cases**
 * **Complete Solution**
 
-Since 33 full questions with full HTML/CSS will be huge, I’ll deliver them in **batches of \~5–6 questions** so they’re readable and you can directly share them with your students.
-
-Let’s start with **Q1 – Q6**.
 
 ---
 
@@ -13,75 +10,6 @@ Let’s start with **Q1 – Q6**.
 
 ---
 
-## Q1) Center Stage
-
-**Problem Description**
-Imagine you are a stage designer setting up a performance. Three performers need to stand side by side in perfect alignment at the very center of the stage. The audience should see them arranged in the order 1, 2, 3, with equal spacing between each performer.
-
-**Starter (stub)**
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>Q1 - Center Stage</title>
-<style>
-  .container {
-    width: 600px;
-    height: 300px;
-    background: #eee;
-    border: 2px dashed #bbb;
-
-    /* Write your code here */
-  }
-  .box {
-    width: 80px;
-    height: 80px;
-    background: #4f46e5; /* indigo */
-    color: white;
-    display: grid;
-    place-items: center;
-    font: bold 16px/1 system-ui, sans-serif;
-    border-radius: 8px;
-  }
-</style>
-</head>
-<body>
-  <div class="container">
-    <div class="box">1</div>
-    <div class="box">2</div>
-    <div class="box">3</div>
-  </div>
-</body>
-</html>
-```
-
-**Test cases**
-
-* The center of the middle box aligns with the container’s center (both axes).
-* Equal spacing between boxes.
-* Visual order: 1, 2, 3.
-
-**Complete Solution**
-
-```html
-<style>
-  .container {
-    width: 600px;
-    height: 300px;
-    background: #eee;
-    border: 2px dashed #bbb;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-  }
-</style>
-```
-
----
 
 ## Q2) Picture Perfect
 
